@@ -1,11 +1,11 @@
-About r-dgeobj
-==============
+About r-dgeobj-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dgeobj-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=DGEobj
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dgeobj-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a flexible container to manage and annotate Differential Gene Expression (DGE) analysis results
 
